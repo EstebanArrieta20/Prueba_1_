@@ -1,0 +1,68 @@
+/*Estilos para el cuerpo*/
+
+body { font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(220, 228, 223);
+}
+header{ background-color: rgba(204, 92, 0, 0.479);
+    text-align: center;
+    border-color: rgb(82, 240, 9);
+    
+}
+
+p{
+    font-weight: bold;
+}
+
+#p1{
+    background-color: bisque;
+}
+
+h2{
+    background-color: rgb(248, 246, 255);
+}
+
+form{
+    background-color: rgb(244, 248, 246)
+}
+ 
+.perfil_1{
+width: 50%;
+border-radius: 45px 
+
+}
+/*Estilo de sesion*/
+ul{list-style-type: square;
+}
+
+ol{list-style-type: square; 
+    font-style: italic;
+}
+/*Estilo de la tabla*/
+ul{
+    list-style-type: disc;
+}
+.Windows{
+    list-style-type: georgian;
+}
+
+
+.Linux{
+    list-style-type: decimal;
+}
+
+
+table{
+    margin: auto;
+    background-color: rgb(238, 10, 151);
+}
+tr,td {
+border: 10;color: rgb(8, 8, 8);
+padding-left: 10px;
+padding-right: 10px;
+}
+
+/*ESTILO DE LA SESION 5*/
+.genero{
+    display:inline;
+    margin: auto 10px;
+}
